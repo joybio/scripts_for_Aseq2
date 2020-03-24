@@ -1,4 +1,4 @@
-Average_3UTR_length.py v1.0
+Average_3UTR_length.py v1.0 (Arabidopsis)
 ****************************************************************
 Recommended:
 
